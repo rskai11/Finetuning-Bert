@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/rouna/Desktop/Projects/Finetuning-Bert/mlruns/0/1fc9dc13e7b44bf29c0a9f362db7484c/artifacts
+end_time: 1725106695315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1fc9dc13e7b44bf29c0a9f362db7484c
+run_name: ./TTC4900Model
+run_uuid: 1fc9dc13e7b44bf29c0a9f362db7484c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725104679458
+status: 3
+tags: []
+user_id: rounak_saha
